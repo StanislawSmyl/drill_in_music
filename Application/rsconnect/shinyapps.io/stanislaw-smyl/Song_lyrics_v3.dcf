@@ -1,0 +1,12 @@
+name: Song_lyrics_v3
+title: Song_lyrics_v3
+username:
+account: stanislaw-smyl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 385385
+bundleId: 1492964
+url: https://stanislaw-smyl.shinyapps.io/Song_lyrics_v3/
+when: 1532203232.2448
+asMultiple: FALSE
+asStatic: FALSE

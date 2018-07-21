@@ -1,0 +1,12 @@
+name: drill_into_music
+title: drill_into_music
+username:
+account: stanislaw-smyl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 385379
+bundleId: 1492957
+url: https://stanislaw-smyl.shinyapps.io/drill_into_music/
+when: 1532202230.03645
+asMultiple: FALSE
+asStatic: FALSE
